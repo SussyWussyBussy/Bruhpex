@@ -11,4 +11,4 @@ Screen Functions
 
 Open Key (Up_Arrow) -- due to some people have %60 keyboards :P
 
-
+only open when ingame(character selection and close when you get to lobby after games and reopen)
