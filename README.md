@@ -16,8 +16,6 @@ only open when ingame(character selection and close when you get to lobby after 
 
 <b>How to Inject/Run</b>
 
-Drag Driver.sys onto kdmapper.exe and that should run,
-
-Open usermode on charcater selection screen to avoid crashes(can open at anytime but its safest to open in char select) and make sure to close and repeat before every game (yes i know thats very annoying but hey it works)
+Open Usermode.exe on charcater selection screen to avoid crashes it will automatically map the driver
 
 Enjoy cheating (you can get banned but im pretty sure its based on reports i have been banned and made a new account and continued to play past level 5 without a ban so im not sure)
