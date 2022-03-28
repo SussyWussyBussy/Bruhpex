@@ -19,3 +19,6 @@ only open when ingame(character selection and close when you get to lobby after 
 Open Usermode.exe on charcater selection screen to avoid crashes it will automatically map the driver
 
 Enjoy cheating (you can get banned but im pretty sure its based on reports i have been banned and made a new account and continued to play past level 5 without a ban so im not sure)
+
+
+<B>PLEASE RENAME usermode.exe to something random for now ill implement random strings later</b>
